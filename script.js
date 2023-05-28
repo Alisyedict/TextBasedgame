@@ -1,4 +1,4 @@
-var readline = require('readline');
+let readline = require('readline');
 
 
 function startGame() {
